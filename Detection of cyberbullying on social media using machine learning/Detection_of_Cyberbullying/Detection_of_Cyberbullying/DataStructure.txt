@@ -1,0 +1,30 @@
+Detection of Cyberbullying on Social Media Using Machine learning
+
+Cyberbullying, Hate speech, Personal attacks,Machine learning, Feature extraction, Twitter, Wikipedia
+
+
+IEE International Conference on Computing Methodologies and Communication,Issue Date:06.May.2021
+
+
+Detection_of_Cyberbullying
+
+
+detection_of_cyberbullying
+
+
+Offensive,Non Offensive
+
+Tweet_Message_model
+
+Tweet_Id
+Tweet_Message
+
+
+Tweet_Prediction_model
+
+Tweet_Id
+Tweet_Message
+Prediction_Type
+
+
+Tweet_Message_model,Tweet_Prediction_model,detection_ratio_model,detection_accuracy_model
